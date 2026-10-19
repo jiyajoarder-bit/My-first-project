@@ -1,2 +1,2 @@
-# My-first-project
-My first github repo
+name=input("Enter name:")
+print("My name is",name)
